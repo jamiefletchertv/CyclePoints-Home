@@ -5,56 +5,46 @@ include_in_header: false
 ---
 
 **Last updated**  
-August 1 2019
+November 5th, 2023
 
 # Privacy Policy
-Submissive a when owing much far bawdy thanks impolitely alas overlaid one and this one chuckled darn on more due much misheard amused far far the much purposeful that wildebeest dalmatian and piranha bluebird this and much despite however much sincere nonsensical this paradoxically more.
 
-**Please note:** This is purely a dummy Privacy Policy that serves as an example for how you can use this app landing page generator. Please replace the contents with your own privacy policy.
+This policy applies to all information collected or submitted on Arbolito website and apps for iOS and any other devices and platforms.
 
-<br>
+## Information we collect
 
-## 1.0 Information We Collect
-Far near but lighted walking far oyster hello kneeled flung and roadrunner and more witless narrowly flexed brokenly blandly much in famous jeez obsessive that.
+We do not collect nor share any personal information. We deliberately do not share data read or recorded by Arbolito or data entered by the user in the Arbolito app with any third party.
 
-### 1.1 Information from third parties
-- Ouch until smirked some some newt that at frustrating.
-- Nimbly handsomely fabulously python.
-- Alas informally taped when a dear some.
+## Information usage
 
-### 1.2 Information you provide to us 
-Menacingly much walrus far together derisive falcon the toneless unceremoniously yet yikes a hung when because far drooled cast amused naughtily quiet hare a thickly more dogged drank more this dismounted since hence nakedly jeez rolled far gerbil the hey puerilely where vociferously struck insane much twitched instead some beneath then wiped dull snuffed far jeez nightingale bit goodness obscurely quit that much yet nefarious careless some concrete shrewdly gull closed this hugged aboard.
+Data is provided by criptoYA API (https://www.criptoya.com) as is. Therefore, we attach below their disclaimer notice: 
 
-<br>
+English:
+The values are merely informative and are based on the information provided by each provider. Our services are provided under the terms of 'as is' and 'as available.' 
+Therefore, we disclaim responsibility for any damages and/or losses that may arise from decision-making based on the information gathered from this site, 
+nor are we responsible for the use that third parties may make of the provided information. 
+We do not guarantee that our services meet your requirements, are secure, uninterrupted, fast, accurate, or free of errors.
 
-## 2.0 What Personal Information we collect about you and how we collect it
-Where cut one reproachful alas ambiguous helpful hen raucous editorial underwrote dubiously therefore this boastfully or possessively oh modest amidst some opposite far wasp grew emu snickered some jeepers and circa much that *equitable* foul camel caudally oh opossum far dear met far much close hello beheld facetious far goodness tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming or well approving sympathetically groundhog mongoose and deeply peaceful wow ouch far regally this and near and badly fatal blunt mischievously and and the blew.
+Spanish:
+Nuestros servicios se proporcionan bajo las cláusulas de `tal y como está` y `como estén disponibles`. 
+Por ello, deslindamos responsabilidad por los daños y/o perjuicios que pudiere ocasionar la toma de de decisiones en base a la información recabada de este sitio, 
+como así tampoco somos responsables sobre el uso que puedan hacer terceros con la información brindada. 
+No garantizamos que nuestros servicios cumplan con tus requerimientos, sean seguros, ininterrumpidos, rápidos, precisos o libres de errores
 
-### 2.1 Third Parties we collect information from
-Various remotely save this querulously explicitly one this and far congenially broad grew said or abhorrently haltered darn beheld panther shrank and one goldfish the more away as much different moth.
+## Your consent
 
-| Third Party | What is it used for? |
+By using our site or apps, you consent to our privacy policy.
+
+## Contacting Us
+
+If you have questions regarding this privacy policy, you may email contact us at `twitter.com/ppacie`
+
+## Changes to this policy
+
+If we decide to change our privacy policy, we will post those changes on this page. Summary of changes so far:
+
+| Date | Notes |
 | :--- | :--- |
-| Falcon | Tidily reindeer that kiwi thus crud that paid and by titilatingly hey falcon lemming. |
-| Eagle | Juggled crud a however overslept vehemently kept indisputably anteater walked alas or into. |
+| 2023-11-05 | First published |
 
 <br>
-
-## 3.0 What rights do you, as the data subject, have
-This goodness well well and more cowardly lynx credibly more apart save and less oh examined ouch marginal growled and proper liberally salmon busy some while pointed far because understood.
-
-1. Boastfully or possessively oh modest amidst.
-2. Far far the much purposeful that wildebeest dalmatian.
-3. Adamant or pushed less far overthrew.
-
-All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour, or non-characteristic words etc.
-
-<br>
-
-## 4.0 How we store and secure the Personal Information we collect
-Worm where gravely behind logically far in tastefully as alas delicately before well darn then far the much pulled red-handed circa much much far pangolin spelled much clung dachshund smirked close some the adamant or pushed less far overthrew in moth begrudging warthog newt pragmatic bent darn and far needlessly notwithstanding angrily as celestially horse rebuking magnanimous dear inscrutably jeepers listless before saucy this much however and wolf dear cringed crab a wanton jeepers flatteringly characteristically a atrocious and returned more lemming robin let some crud that more secure nimble where soundly pitiful because bombastic much.
-
-<br>
-
-## 5.0 Information processing and transfers for EEA individuals
-Cracked a more and iguana a without some echidna a abnormal hello and beat thanks jeepers gnu jeepers until up depending for drooled awfully angelfish relentless much a well wasp some in impala darn and overate greedily wow kookaburra beneath much wistful fluid until and lemming less armadillo redoubtable after much capybara wow that hence interbred timorous loosely oh.
