@@ -37,7 +37,7 @@ By using our site or apps, you consent to our privacy policy.
 
 ## Contacting Us
 
-If you have questions regarding this privacy policy, you may email contact us at `twitter.com/ppacie`
+If you have questions regarding this privacy policy, you may email us at `soporte [at] arbolito.app`
 
 ## Changes to this policy
 
