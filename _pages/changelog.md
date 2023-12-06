@@ -8,8 +8,11 @@ include_in_header: true
 Changelog for arbolito.
 <br>
 
-### `Latest (November 4th, 2023)`
-# **Version 1.1.0**
+### `Latest (December 5th, 2023)`
+# **Version 1.2.0**
+- Personalizar widgets de la pantalla de inicio por color y filtros (comprar, vender, spread).
+
+## **Version 1.1.0**
 - Nuevo widget tamaño mediano agregando la cotización del dólar oficial y solidario.
 - Filtros
 - Ordena los exchanges por: comprar, vender, spread.
