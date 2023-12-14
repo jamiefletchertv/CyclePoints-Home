@@ -9,7 +9,7 @@ Changelog for arbolito.
 <br>
 
 ### `Latest (December 14th, 2023)`
-# **Version 1.3.0**
+# **Version 1.3.1**
 - Soporte para las monedas de los siguientes países (además de Argentina): Brasil, Chile, Colombia, Mexico, Peru, Uruguay y Venezuela.
 - Precio del Bitcoin y Ethereum en dólares. 
 - Nuevos cripto widgets para pantalla principal y bloqueo.
