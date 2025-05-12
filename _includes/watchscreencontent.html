@@ -4,7 +4,7 @@
     {% if file.path contains 'assets/watchscreenshot/' %}
         <script>
             $(function() {
-                $(".watchScreen").attr('src', '{{ site.github.baseurl }}{{ file.path }}');
+                $(".watchScreen").attr('src', '{{ site.baseurl }}{{ file.path }}');
                 $(".watchScreen").removeClass("hidden");
                 console.log("{{ file.path }}");
             });

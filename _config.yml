@@ -1,6 +1,9 @@
 #page title
 page_title                                : Cycle Points                            # Automatically populates with app name if not set and if iOS app ID is set. Otherwise enter manually.
 
+# GitHub Pages Configuration
+baseurl                                   : "/CyclePoints-Home"
+
 # App Info
 ios_app_id                                : 6745458950 #718043190                                # Required. Enter iOS app ID to automatically populate name, price and icons (e.g. 718043190).
 
