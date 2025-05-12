@@ -40,9 +40,9 @@ email_address                             : jamie.ac.fletcher@gmail.com
 # Feature List                            Edit, add or remove features to be presented.
 features                                  :
 
-  - title                                 : GitHub Pages Jekyll Theme
-    description                           : Designed for GitHub Pages. Fork. Edit _config.yml. Upload screenshot/video. Push to gh-pages branch. Voilá!
-    fontawesome_icon_name                 : magic
+  - title                                 : Cycle Node Waypoints
+    description                           : Build and save your favorite list of numbered routes
+    fontawesome_icon_name                 : info-circle
 
   - title                                 : iPhone and Apple Watch
     description                           : Support for iPhone and Apple Watch devices. More to come in the future.
